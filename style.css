@@ -37,6 +37,10 @@ ul {
         margin: 0px;
 }
 
+li {
+        margin-right: 2%;
+}
+
 #navbar {
         background-color: #E65353;
         white-space: nowrap;
