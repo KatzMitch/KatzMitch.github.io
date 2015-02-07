@@ -3,6 +3,7 @@ body {
         background-color: #FFFFFF;
         font-family: "Lucida Sans", sans-serif;
         margin: 1%;
+        margin-bottom: 30px;
 }
 
 h1 {
@@ -13,8 +14,8 @@ h1 {
 }
 
 h2 {
-        color: #E61717;
-        font-size: 28px;
+        color: #B84242;
+        font-size: 20px;
         padding-left: 2%;
         padding-right: 2%;
 }
@@ -23,12 +24,17 @@ p {
         font-size: 16px;
         padding-left: 2%;
         padding-right: 2%;
+        margin-bottom: 0px;
         display: block;
 }
 
 a {
         font-size: 16px;
         color: black;
+}
+
+ul {
+        margin: 0px;
 }
 
 #navbar {
@@ -50,6 +56,10 @@ a {
 
 .strong {
         font-weight: bold;
+}
+
+.ital {
+        font-style: italic;
 }
 
 #mitchell {
