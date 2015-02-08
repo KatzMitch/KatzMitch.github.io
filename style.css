@@ -65,12 +65,12 @@ ul {
         font-style: italic;
 }
 
-#mitchell {
-        float: right;
+#homepic {
         margin-right: 2%;
         margin-left: 2%;
         margin-top: 37px;
         margin-bottom: 5px;
         width: 25%;
         height: 25%;
+        float: right;
 }
