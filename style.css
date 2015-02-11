@@ -33,6 +33,14 @@ a {
         color: black;
 }
 
+#whitehover:hover {
+        color: white;
+}
+
+#redhover:hover {
+        color: #D41C1C;
+}
+
 ul {
         margin-bottom: 2%;
         margin-right: 2%;
