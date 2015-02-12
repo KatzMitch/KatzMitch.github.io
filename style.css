@@ -42,8 +42,6 @@ ul {
 
 .whitehover:hover {
         color: #FFFFFF;
-        border-width: 1px;
-        border-color: #FFFFFF;
 }
 
 #redhover:hover {
