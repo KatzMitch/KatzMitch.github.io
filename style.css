@@ -33,19 +33,19 @@ a {
         color: black;
 }
 
+ul {
+        margin-bottom: 2%;
+        margin-right: 2%;
+        margin-top: 0px;
+        margin-left: 0px;
+}
+
 #whitehover:hover {
         color: #FFFFFF;
 }
 
 #redhover:hover {
         color: #D41C1C;
-}
-
-ul {
-        margin-bottom: 2%;
-        margin-right: 2%;
-        margin-top: 0px;
-        margin-left: 0px;
 }
 
 #navbar {
@@ -71,6 +71,15 @@ ul {
 
 .ital {
         font-style: italic;
+}
+
+.listblock {
+        margin: 0px;
+        margin-left: -20px;
+}
+
+.block {
+        margin: 0px;
 }
 
 #homepic {
